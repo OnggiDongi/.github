@@ -13,7 +13,7 @@
 
 | [<img src="https://github.com/sooocong.png" width="150"/>](https://github.com/sooocong) | [<img src="https://github.com/kiyeonkimm.png" width="150"/>](https://github.com/kiyeonkimm) | [<img src="https://github.com/bokyeommmmm.png" width="150"/>](https://github.com/bokyeommmmm) | [<img src="https://github.com/Ausdauer1.png" width="150"/>](https://github.com/Ausdauer1) | [<img src="https://github.com/dlwlals1289.png" width="150"/>](https://github.com/dlwlals1289) |
 |:--:|:--:|:--:|:--:|:--:|
-| **최수빈 (팀장)** <br/>[ @sooocong](https://github.com/sooocong) | **김기연** <br/> [@kiyeonkimm](https://github.com/kiyeonkimm) | **김보겸** <br/> [@bokyeommmmm](https://github.com/bokyeommmmm) | **우재현** <br/> [@Ausdauer1](https://github.com/Ausdauer1) | **이지민** <br/> [@dlwlals1289](https://github.com/dlwlals1289) |
+| 🎨 **최수빈 (팀장)** <br/>[ @sooocong](https://github.com/sooocong) | 🎀 **김기연** <br/> [@kiyeonkimm](https://github.com/kiyeonkimm) | 🍊 **김보겸** <br/> [@bokyeommmmm](https://github.com/bokyeommmmm) | 🦫 **우재현** <br/> [@Ausdauer1](https://github.com/Ausdauer1) | 🐾 **이지민** <br/> [@dlwlals1289](https://github.com/dlwlals1289) |
 
 <br>
 
@@ -86,3 +86,4 @@
 ---
 
 ## 🏗️ 모놀리포 구조(예시)
+니머고
