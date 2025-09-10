@@ -16,7 +16,7 @@
 
 | [<img src="https://github.com/sooocong.png" width="100"/>](https://github.com/sooocong) | [<img src="https://github.com/kiyeonkimm.png" width="100"/>](https://github.com/kiyeonkimm) | [<img src="https://github.com/bokyeommmmm.png" width="100"/>](https://github.com/bokyeommmmm) | [<img src="https://github.com/Ausdauer1.png" width="100"/>](https://github.com/Ausdauer1) | [<img src="https://github.com/dlwlals1289.png" width="100"/>](https://github.com/dlwlals1289) |
 |:--:|:--:|:--:|:--:|:--:|
-| **최수빈 (팀장)** | **김기연** | **김보겸** | **우재현** | **이지민** |
+| **최수빈 (팀장)** <br/> @sooocong | **김기연** <br/> @kiyeonkimm | **김보겸** <br/> @bokyeommmmm | **우재현** <br/> @Ausdauer1 | **이지민** <br/> @dlwlals1289 |
 
 ## 🔨 기술 스택
 
