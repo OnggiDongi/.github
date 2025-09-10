@@ -1,26 +1,95 @@
-## 옹기동기
-<br/>
+<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/c98e226b-68da-4f45-815a-b037a25454f1" /># ✨ 디지털하나로 금융서비스개발 7기 2차 프로젝트 — **따봉(DDABONG)**
 
-## 🛠 Stacks
+> **시니어 재능봉사 매칭 & 포인트 리워드 플랫폼**  
+> 심심한 시간을 **따뜻한 온기**로. 시니어의 재능이 필요한 현장과 연결하고, 활동 시간은 **포인트(하나머니 연계 가정)**로 보상됩니다.  
+> **교감 → 신뢰 → 손님**으로 이어지는 지역 선순환을 만듭니다.
 
-  <div align="center">
-    
-| 역할                 | 종류                                                                                                                                                                                                                          | 선정 이유                                                                                                                   |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| **Framework**          | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)                                                                                                                                                                                                                          | App Router 기반 SSR + CSR 병행이 가능하고, 서버 액션 등 최신 기능 지원                                                        |
-| **Programming Language** | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)                                                                                                                                                                                                    | 정적 타입으로 코드 안정성과 협업 효율성 확보                                                                                        |
-| **Styling**          | ![TailwindCSS v4](https://img.shields.io/badge/TailwindCSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)                                                                                                                                                                                                        | 빠른 UI 구성과 유지보수에 용이한 유틸리티 CSS                                                       |
-| **Database**    | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)                                                                                                                                                                                                                                        | 구조화된 관계형 데이터 관리에 적합                                                                                 |
-| **ORM** | ![Prisma v6](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)                                                                                                                                                                                                                         | 타입 안전성과 데이터베이스 자동 연동 기능 제공                                                                                            |
-| **Chart & Data Viz**          | ![Recharts](https://img.shields.io/badge/Recharts-23B5BF?style=for-the-badge&logo=Recharts&logoColor=white)                                                                                                                                                                                                      | 소비/수입 분석 차트, 시각화 기능 구현                                                                            |
-| **Linter & Formatter**       | ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) ![Lint-Staged](https://img.shields.io/badge/Lint_Staged-000000?style=for-the-badge&logo=lint-staged&logoColor=white)| 코드 일관성을 유지하고 커밋 전 자동 검사로 오류 발생 가능성을 낮춤                                                                     |
-| **Animation**          | ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)                                                                                                                                                                                      | 메인페이지의 수입 카테고리 별 통통 튀는 UI 애니메이션으로 사용자 재미 유도                                                                               |
-| **AI API 연동**          | ![Google GenAI](https://img.shields.io/badge/googlegemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)                                                                                                                                                                                    | 별비서 AI 상담 서비스 연동                                                                              |
-| **UI Test / Docs**          | ![Storybook v9](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)                                                                                                                                                                                                                               | 컴포넌트 테스트 및 UI 문서화를 위한 환경 구성   
-| **Container**          | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)                                                                                                                                                                                                                                | 로컬 및 배포 환경 통일을 위한 컨테이너 기반 개발   
-| **Auth**          | ![NextAuth.js (v5 Beta)](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=NextAuth&logoColor=white)                                                                                                                                                                                    | 편리한 OAuth 로그인 구현 및 세션 관리 지원                                                                              |
-| **Package Manager**  | ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)                                                                                                                                                                                                                               | 빠른 속도와 모노레포 대응이 가능한 패키지 매니저                                                                               |
-| **Bundler & Plugin**          | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)                                                                                                                                                                                                                                 | 번들링 속도가 빠르고 유연한 설정, TypeScript와의 높은 호환성                                                                               |                                                                                         |
-</div>
+---
 
-<br/>
+## 🧭 핵심 한 줄
+**“시니어의 시간과 재능을 가치로 바꿉니다.”**  
+가까운 곳의 **가벼운 봉사**부터, 경력·자격을 살린 **전문 봉사**까지.
+
+---
+
+## 👩🏻‍💻 옹기동기 팀 소개
+| [<img src="https://github.com/sooocong.png" width="100"/>](https://github.com/sooocong) | [<img src="https://github.com/kiyeonkimm.png" width="100"/>](https://github.com/kiyeonkimm) | [<img src="https://github.com/bokyeommmmm.png" width="100"/>](https://github.com/bokyeommmmm) | [<img src="https://github.com/Ausdauer1.png" width="100"/>](https://github.com/Ausdauer1) | [<img src="https://github.com/dlwlals1289.png" width="100"/>](https://github.com/dlwlals1289) |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| 최수빈(팀장) | 김기연 | 김보겸 | 우재현 | 이지민 |
+
+---
+
+## 🔨 기술 스택
+
+| 분류 | 기술 |
+|:-:|:-|
+| Language | TypeScript, Java |
+| Frontend | Next.js(React), Tailwind CSS, React Query, Axios |
+| Backend | Spring Boot, Spring Security(JWT), Spring Data JPA, QueryDSL |
+| Infra | MySQL, Docker, GitHub Actions(CI), AWS S3(파일 업로드) |
+| Docs & Monitoring | Swagger(OpenAPI), Spring Actuator, Logback(콘솔/파일 분리·롤링) |
+| Test | Vitest(FE), JPA Repository Tests(BE) |
+| Collaboration | Figma, Notion, Slack, GitHub |
+
+---
+
+## 🎯 문제 정의 & 인사이트
+- **은퇴 후 시간의 공백**과 **사회적 고립** 증가  
+- 기존 플랫폼의 **시니어 친화성 부족**(큰 글씨/간단 동선/오프라인 연계 부족)  
+- “봉사=무상” 인식 → **시간의 가치화** 필요
+
+**해결:** 시니어의 시간·재능을 **포인트화**하고, 기관·소상공인과의 **호혜 구조**를 설계
+
+---
+
+## 🍥 서비스 핵심 기능
+
+### 1) 시니어 맞춤 추천
+- 연령/거주지/관심/체력소모도 기반 추천  
+- **글을 못 써도 OK**: 키워드·장소·시간만 입력하면 **모집글 자동 생성**(템플릿 + LLM 프롬프트)
+
+### 2) 봉사 시간 → 리워드
+- 활동 시간 누적 **포인트 적립**  
+- **50시간마다 봉사 인증서(PDF)** 자동 발급
+
+### 3) 기관 관리(백오피스)
+- 모집글 등록/지원자 관리/활동 평가  
+- **AI 요약 리뷰**로 후기 자동 요약·태깅
+
+### 4) 로컬 연계(브랜드 플러스)
+- 행사 시 **하나 버스·커피차** 지원 시나리오  
+- **노란우산공제 가맹 소상공인**과 포인트 사용 연계(상권 활성화)
+
+### 5) 접근성·신뢰
+- 큰 글씨, 단순 동선, 명확한 버튼  
+- **자녀-시니어 화면 분리**(권한·알림 연동)  
+- **JWT 기반 Role 접근 제어**(ROLE_ADMIN/ROLE_USER)
+
+---
+
+## 🗃️ ERD 다이어그램
+<img src="https://github.com/user-attachments/assets/86932126-b888-4e80-a1bd-9eec844abdfa" width="720" />
+
+**핵심 엔터티(요약)**  
+- `Member`(시니어/기관관리자), `VolunteerActivity`(모집/카테고리/체력도/위치)  
+- `Application`(지원/상태/평가), `VolunteerRecord`(시간 누적, 인증서 트리거)  
+- `PointLedger`(적립/사용), `Order`(정산), `Item`–`ItemImages`(1:N, TMP→ORIGIN)
+
+---<img width="5760" height="3240" alt="서비스 소개" src="" />
+
+
+
+## 📸 서비스 스냅샷
+<p>
+  <img src="https://github.com/user-attachments/assets/e5006767-65de-4ae3-bc1b-92f4eefe98d0" width="320" />
+</p>
+<p>
+  <img src="https://github.com/user-attachments/assets/3eedde87-5904-448e-89ca-7b5f0b9bdf0b" width="320" />
+  <img src="https://github.com/user-attachments/assets/5c47d22c-80e6-437c-a4fe-5261185fefac" width="320" />
+  <img src="https://github.com/user-attachments/assets/505a9891-befe-4388-8168-92f7c3cade1b" width="320" />
+  <img src="https://github.com/user-attachments/assets/f81a076e-69d7-42a9-bfce-9d0f2ee6e3ef" width="320" />
+</p>
+
+---
+
+## 🏗️ 모놀리포 구조(예시)
