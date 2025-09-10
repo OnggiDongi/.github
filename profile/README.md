@@ -1,7 +1,7 @@
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/c98e226b-68da-4f45-815a-b037a25454f1" /># ✨ 디지털하나로 금융서비스개발 7기 2차 프로젝트 — **따봉(DDABONG)**
+# ✨ 디지털하나로 금융서비스개발 7기 2차 프로젝트 — **따봉(DDABONG)**
 
 > **시니어 재능봉사 매칭 & 포인트 리워드 플랫폼**  
-> 심심한 시간을 **따뜻한 온기**로. 시니어의 재능이 필요한 현장과 연결하고, 활동 시간은 **포인트(하나머니 연계 가정)**로 보상됩니다.  
+> 심심한 시간을 **따뜻한 온기**로. 시니어의 재능이 필요한 현장과 연결합니다.  
 > **교감 → 신뢰 → 손님**으로 이어지는 지역 선순환을 만듭니다.
 
 ---
@@ -13,11 +13,10 @@
 ---
 
 ## 👩🏻‍💻 옹기동기 팀 소개
-| [<img src="https://github.com/sooocong.png" width="100"/>](https://github.com/sooocong) | [<img src="https://github.com/kiyeonkimm.png" width="100"/>](https://github.com/kiyeonkimm) | [<img src="https://github.com/bokyeommmmm.png" width="100"/>](https://github.com/bokyeommmmm) | [<img src="https://github.com/Ausdauer1.png" width="100"/>](https://github.com/Ausdauer1) | [<img src="https://github.com/dlwlals1289.png" width="100"/>](https://github.com/dlwlals1289) |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| 최수빈(팀장) | 김기연 | 김보겸 | 우재현 | 이지민 |
 
----
+| [<img src="https://github.com/sooocong.png" width="100"/>](https://github.com/sooocong) | [<img src="https://github.com/kiyeonkimm.png" width="100"/>](https://github.com/kiyeonkimm) | [<img src="https://github.com/bokyeommmmm.png" width="100"/>](https://github.com/bokyeommmmm) | [<img src="https://github.com/Ausdauer1.png" width="100"/>](https://github.com/Ausdauer1) | [<img src="https://github.com/dlwlals1289.png" width="100"/>](https://github.com/dlwlals1289) |
+|:--:|:--:|:--:|:--:|:--:|
+| **최수빈 (팀장)** | **김기연** | **김보겸** | **우재현** | **이지민** |
 
 ## 🔨 기술 스택
 
