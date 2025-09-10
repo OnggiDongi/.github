@@ -1,34 +1,31 @@
-# ✨ 디지털하나로 금융서비스개발 7기 2차 프로젝트 — **따봉(DDABONG)**
+# ✨ 시니어 봉사 매칭 플랫폼 — **따봉(DDABONG)**
+<img width="5760" height="3240" alt="첫 장표" src="https://github.com/user-attachments/assets/b0601828-fcaa-43cd-9cb1-b3d3650a8b1c" />
 
-> **시니어 재능봉사 매칭 & 포인트 리워드 플랫폼**  
-> 심심한 시간을 **따뜻한 온기**로. 시니어의 재능이 필요한 현장과 연결합니다.  
+> 심심한 시간을 **따뜻한 온기**로. 시니어의 재능이 필요한 현장과 연결합니다.
 > **교감 → 신뢰 → 손님**으로 이어지는 지역 선순환을 만듭니다.
+<br>
 
----
-
-## 🧭 핵심 한 줄
+## 🧭 서비스 소개
 **“시니어의 시간과 재능을 가치로 바꿉니다.”**  
 가까운 곳의 **가벼운 봉사**부터, 경력·자격을 살린 **전문 봉사**까지.
-
----
-
+<br>
 ## 👩🏻‍💻 옹기동기 팀 소개
 
-| [<img src="https://github.com/sooocong.png" width="100"/>](https://github.com/sooocong) | [<img src="https://github.com/kiyeonkimm.png" width="100"/>](https://github.com/kiyeonkimm) | [<img src="https://github.com/bokyeommmmm.png" width="100"/>](https://github.com/bokyeommmmm) | [<img src="https://github.com/Ausdauer1.png" width="100"/>](https://github.com/Ausdauer1) | [<img src="https://github.com/dlwlals1289.png" width="100"/>](https://github.com/dlwlals1289) |
+| [<img src="https://github.com/sooocong.png" width="150"/>](https://github.com/sooocong) | [<img src="https://github.com/kiyeonkimm.png" width="150"/>](https://github.com/kiyeonkimm) | [<img src="https://github.com/bokyeommmmm.png" width="150"/>](https://github.com/bokyeommmmm) | [<img src="https://github.com/Ausdauer1.png" width="150"/>](https://github.com/Ausdauer1) | [<img src="https://github.com/dlwlals1289.png" width="150"/>](https://github.com/dlwlals1289) |
 |:--:|:--:|:--:|:--:|:--:|
-| **최수빈 (팀장)** <br/> @sooocong | **김기연** <br/> @kiyeonkimm | **김보겸** <br/> @bokyeommmmm | **우재현** <br/> @Ausdauer1 | **이지민** <br/> @dlwlals1289 |
+| **최수빈 (팀장)** <br/>[ @sooocong](https://github.com/sooocong) | **김기연** <br/> [@kiyeonkimm](https://github.com/kiyeonkimm) | **김보겸** <br/> [@bokyeommmmm](https://github.com/bokyeommmmm) | **우재현** <br/> [@Ausdauer1](https://github.com/Ausdauer1) | **이지민** <br/> [@dlwlals1289](https://github.com/dlwlals1289) |
 
-## 🔨 기술 스택
+<br>
+
+## ⚡ 기술 스택
 
 | 분류 | 기술 |
-|:-:|:-|
-| Language | TypeScript, Java |
-| Frontend | Next.js(React), Tailwind CSS, React Query, Axios |
-| Backend | Spring Boot, Spring Security(JWT), Spring Data JPA, QueryDSL |
-| Infra | MySQL, Docker, GitHub Actions(CI), AWS S3(파일 업로드) |
-| Docs & Monitoring | Swagger(OpenAPI), Spring Actuator, Logback(콘솔/파일 분리·롤링) |
-| Test | Vitest(FE), JPA Repository Tests(BE) |
-| Collaboration | Figma, Notion, Slack, GitHub |
+|:--:|--|
+| 🎨 **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/> <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/> |
+| ⚙️ **Backend** | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/> |
+| 🗄️ **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> |
+| ☁️ **Infra & Tools** | <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> |
+
 
 ---
 
@@ -65,9 +62,6 @@
 - **JWT 기반 Role 접근 제어**(ROLE_ADMIN/ROLE_USER)
 
 ---
-
-## 🗃️ ERD 다이어그램
-<img src="https://github.com/user-attachments/assets/86932126-b888-4e80-a1bd-9eec844abdfa" width="720" />
 
 **핵심 엔터티(요약)**  
 - `Member`(시니어/기관관리자), `VolunteerActivity`(모집/카테고리/체력도/위치)  
