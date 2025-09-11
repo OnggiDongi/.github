@@ -13,6 +13,8 @@
 
 당신의 **따봉**이 모여, 세상에 **따뜻한 온기**를 더합니다. 🌱
 <br>
+<br>
+
 ## 🚀 배포 & 시연
 - [🌐 서비스 바로가기](https://ddabong.topician.com)  
 - [🎥 시연 영상 보러가기](https://youtu.be/EgidUzj85Co?si=4dmxZrfFptKtaARH)
@@ -42,16 +44,24 @@
 <img width="5760" height="3240" alt="서비스 소개1" src="https://github.com/user-attachments/assets/8ffee98a-5b2a-458a-bc98-e3f1f612a187" />
 
 ### 1) 시니어 
-<img width="5760" height="3240" alt="서비스 소개7" src="https://github.com/user-attachments/assets/736df4a0-18d2-477c-9471-01810ecc611a" />
-<img width="5760" height="3240" alt="서비스 소개8" src="https://github.com/user-attachments/assets/b306dc16-7a76-4eea-a7d6-afa6586c8d64" />
-<img width="5760" height="3240" alt="서비스 소개9" src="https://github.com/user-attachments/assets/bd544973-0144-4236-adc6-7b10e194ff11" />
-<img width="1920" height="1080" alt="서비스 소개10" src="https://github.com/user-attachments/assets/c6621644-39f6-45c1-8352-d1a8c8b52c91" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/736df4a0-18d2-477c-9471-01810ecc611a" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/b306dc16-7a76-4eea-a7d6-afa6586c8d64" width="49%"/>
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/bd544973-0144-4236-adc6-7b10e194ff11" width="49%" />
+<img src="https://github.com/user-attachments/assets/c6621644-39f6-45c1-8352-d1a8c8b52c91" width="49%" />
+</p>
 
 ### 2) 기관
-<img width="5760" height="3240" alt="서비스 소개2" src="https://github.com/user-attachments/assets/d9cfed1d-900f-4ffd-8254-9a4235289dc4" />
-<img width="5760" height="3240" alt="서비스 소개3" src="https://github.com/user-attachments/assets/892dd2dc-693a-4e4e-be94-cbc045812519" />
-<img width="5760" height="3240" alt="서비스 소개4" src="https://github.com/user-attachments/assets/fe0a3754-52d2-4400-988e-393e52272879" />
-<img width="5760" height="3240" alt="서비스 소개5" src="https://github.com/user-attachments/assets/db4bdd36-fa22-4a92-8f4a-c1c25ee0e397" />
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d9cfed1d-900f-4ffd-8254-9a4235289dc4" width="49%" />
+<img src="https://github.com/user-attachments/assets/892dd2dc-693a-4e4e-be94-cbc045812519" width="49%" />
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/fe0a3754-52d2-4400-988e-393e52272879" width="49%" />
+<img src="https://github.com/user-attachments/assets/db4bdd36-fa22-4a92-8f4a-c1c25ee0e397" width="49%" />
+</p>
 
 ### 3) AI 리뷰 요약
 <img width="5760" height="3240" alt="서비스 소개6" src="https://github.com/user-attachments/assets/981a6fee-6ae8-4da6-9caa-e4d9ec7aa781" />
