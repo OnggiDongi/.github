@@ -6,10 +6,18 @@
 <br>
 
 ## 🧭 서비스 소개
-**“시니어의 시간과 재능을 가치로 바꿉니다.”**  
-가까운 곳의 **가벼운 봉사**부터, 경력·자격을 살린 **전문 봉사**까지.
+**따봉(DDABONG)** 은 시니어가 자신의 시간과 재능을 나누는 **세대 교류 봉사 플랫폼**입니다.  
+
+- 🏢 **기관**은 필요한 봉사자를 쉽고 빠르게 모집할 수 있습니다.  
+- 👵 **시니어**는 봉사로 의미 있는 시간을 쌓고, 사회와 연결됩니다.  
+
+당신의 **따봉**이 모여, 세상에 **따뜻한 온기**를 더합니다. 🌱
 <br>
+## 🚀 배포 & 시연
+- [🌐 서비스 바로가기](https://ddabong.topician.com)  
+- [🎥 시연 영상 보러가기](https://youtu.be/EgidUzj85Co?si=4dmxZrfFptKtaARH)
 <br>
+
 ## 👩🏻‍💻 옹기동기 팀 소개
 
 | [<img src="https://github.com/sooocong.png" width="150"/>](https://github.com/sooocong) | [<img src="https://github.com/kiyeonkimm.png" width="150"/>](https://github.com/kiyeonkimm) | [<img src="https://github.com/bokyeommmmm.png" width="150"/>](https://github.com/bokyeommmmm) | [<img src="https://github.com/Ausdauer1.png" width="150"/>](https://github.com/Ausdauer1) | [<img src="https://github.com/dlwlals1289.png" width="150"/>](https://github.com/dlwlals1289) |
@@ -30,35 +38,25 @@
 
 <br>
 
-## 🎯 문제 정의 & 인사이트
-- **은퇴 후 시간의 공백**과 **사회적 고립** 증가  
-- 기존 플랫폼의 **시니어 친화성 부족**(큰 글씨/간단 동선/오프라인 연계 부족)  
-- “봉사=무상” 인식 → **시간의 가치화** 필요
-
-<br>
-
 ## 🍥 서비스 핵심 기능
 <img width="5760" height="3240" alt="서비스 소개1" src="https://github.com/user-attachments/assets/8ffee98a-5b2a-458a-bc98-e3f1f612a187" />
 
-### 1) 시니어 맞춤 추천
-- 연령/거주지/관심/체력소모도 기반 추천  
-- **글을 못 써도 OK**: 키워드·장소·시간만 입력하면 **모집글 자동 생성**(템플릿 + LLM 프롬프트)
+### 1) 시니어 
+<img width="5760" height="3240" alt="서비스 소개7" src="https://github.com/user-attachments/assets/736df4a0-18d2-477c-9471-01810ecc611a" />
+<img width="5760" height="3240" alt="서비스 소개8" src="https://github.com/user-attachments/assets/b306dc16-7a76-4eea-a7d6-afa6586c8d64" />
+<img width="5760" height="3240" alt="서비스 소개9" src="https://github.com/user-attachments/assets/bd544973-0144-4236-adc6-7b10e194ff11" />
+<img width="1920" height="1080" alt="서비스 소개10" src="https://github.com/user-attachments/assets/c6621644-39f6-45c1-8352-d1a8c8b52c91" />
 
-### 2) 봉사 시간 → 리워드
-- 활동 시간 누적 **포인트 적립**  
-- **50시간마다 봉사 인증서(PDF)** 자동 발급
+### 2) 기관
+<img width="5760" height="3240" alt="서비스 소개2" src="https://github.com/user-attachments/assets/d9cfed1d-900f-4ffd-8254-9a4235289dc4" />
+<img width="5760" height="3240" alt="서비스 소개3" src="https://github.com/user-attachments/assets/892dd2dc-693a-4e4e-be94-cbc045812519" />
+<img width="5760" height="3240" alt="서비스 소개4" src="https://github.com/user-attachments/assets/fe0a3754-52d2-4400-988e-393e52272879" />
+<img width="5760" height="3240" alt="서비스 소개5" src="https://github.com/user-attachments/assets/db4bdd36-fa22-4a92-8f4a-c1c25ee0e397" />
 
-### 3) 기관 관리(백오피스)
-- 모집글 등록/지원자 관리/활동 평가  
-- **AI 요약 리뷰**로 후기 자동 요약·태깅
+### 3) AI 리뷰 요약
+<img width="5760" height="3240" alt="서비스 소개6" src="https://github.com/user-attachments/assets/981a6fee-6ae8-4da6-9caa-e4d9ec7aa781" />
 
-### 4) 로컬 연계(브랜드 플러스)
-- 행사 시 **하나 버스·커피차** 지원 시나리오  
 
-### 5) 접근성·신뢰
-- 큰 글씨, 단순 동선, 명확한 버튼  
-- **자녀-시니어 화면 분리**(권한·알림 연동)  
-- **JWT 기반 Role 접근 제어**(ROLE_ADMIN/ROLE_USER)
 
 <br>
 
@@ -66,5 +64,3 @@
 <img width="2670" height="1800" alt="아키텍" src="https://github.com/user-attachments/assets/05e13afb-28a0-439b-baf3-7533dcec3277" />
 
 
-
-## 📸 서비스 스냅샷
